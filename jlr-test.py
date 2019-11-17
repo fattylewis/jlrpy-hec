@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import jlrpy
 from configparser import ConfigParser
 import os
@@ -122,7 +124,7 @@ json_out = {
     ],
     "Tyre Pressures": [
     {"Front Left Tyre Pressure": front_left_tyre_pres},
-    {"Front Right Tyre Pressue": front_right_tyre_pres},
+    {"Front Right Tyre Pressure": front_right_tyre_pres},
     {"Rear Left Tyre Pressure": rear_left_tyre_pres},
     {"Rear Right Tyre Pressure": rear_right_tyre_pres}
     ],
