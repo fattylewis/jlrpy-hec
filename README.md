@@ -4,5 +4,5 @@ This uses https://github.com/ardevd/jlrpy
 
 Example Dashboard:
 <p align="center">
-  <a target="_blank"><img src="https://fattylewis.com/wp-content/uploads/2019/11/splunk-jlr.png" />   
+  <a target="_blank"><img src="https://github.com/fattylewis/jlrpy-hec/raw/master/Screenshot_2019-11-19%20Overview%20Splunk%207%202%209.png" />   
 </p>
